@@ -2,7 +2,7 @@
 library;
 
 import 'package:test/test.dart';
-import 'package:timezone/data/latest.dart';
+import 'package:timezone/data/latest_all.dart';
 import 'package:timezone/timezone.dart';
 
 Future<void> main() async {
